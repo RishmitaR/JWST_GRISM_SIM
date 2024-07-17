@@ -1,0 +1,8 @@
+# Region file format: DS9 version 4.1
+global color=orange dashlist=8 3 width=1 font="helvetica 10 normal" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+line(72.28888888888835,10,72.28888888888835,25)
+line(72.28888888888835,40,72.28888888888835,55) # text={MgII}
+line(128.22355555555487,10,128.22355555555487,25)
+line(128.22355555555487,40,128.22355555555487,55) # text={NeV}
+line(136.41911111111042,10,136.41911111111042,25)
+line(136.41911111111042,40,136.41911111111042,55) # text={NeVI}

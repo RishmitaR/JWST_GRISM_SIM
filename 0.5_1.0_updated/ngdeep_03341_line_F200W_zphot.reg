@@ -1,0 +1,6 @@
+# Region file format: DS9 version 4.1
+global color=orange dashlist=8 3 width=1 font="helvetica 10 normal" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+line(15.140000000000066,10,15.140000000000066,25)
+line(15.140000000000066,40,15.140000000000066,55) # text={HeI}
+line(86.40933333333344,10,86.40933333333344,25)
+line(86.40933333333344,40,86.40933333333344,55) # text={PaB}

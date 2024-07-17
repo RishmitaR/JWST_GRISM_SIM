@@ -1,0 +1,8 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+line(42.42639449225976,10,42.42639449225976,25)
+line(42.42639449225976,40,42.42639449225976,55) # text={SIII}
+line(59.04585758559563,10,59.04585758559563,25)
+line(59.04585758559563,40,59.04585758559563,55) # text={SIII}
+line(105.72049674653387,10,105.72049674653387,25)
+line(105.72049674653387,40,105.72049674653387,55) # text={HeI}
