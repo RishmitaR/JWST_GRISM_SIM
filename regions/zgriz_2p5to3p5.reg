@@ -1,0 +1,6 @@
+# Region file format: DS9 astropy/regions
+global move=0
+icrs
+circle(53.16494096,-27.76518458,0.00041667) # text={ngdeep_04015 zs=3.19 zp=3.4}
+circle(53.18064321,-27.77983882,0.00041667) # text={ngdeep_02640 zs=-- zp=3.2}
+circle(53.18117060,-27.79099930,0.00041667) # text={ngdeep_01298 zs=3.93 zp=2.9}
